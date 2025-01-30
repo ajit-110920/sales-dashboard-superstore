@@ -22,4 +22,6 @@ An interactive Power BI dashboard analyzing sales, profit, and shipping trends u
 - **Excel (Superstore Dataset)**
 
 ## 📸 Dashboard Screenshots
-*(Add images here)*
+![Screenshot 2025-01-30 140715](https://github.com/user-attachments/assets/8b30538a-4205-4add-9212-a6104dc8a464)
+![Screenshot 2025-01-30 140631](https://github.com/user-attachments/assets/f47b6d02-1b4a-43bc-807a-d86b1f0c7fd5)
+
